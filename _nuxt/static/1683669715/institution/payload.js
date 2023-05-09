@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/institution", {data:[{}],fetch:{},mutations:void 0});
